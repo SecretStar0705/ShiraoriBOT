@@ -46,7 +46,7 @@
 
 ---
 
-## 🔐 SESSION ID GENERATOR
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗜𝗗+𝗚𝗘𝗡𝗘𝗥𝗔𝗧𝗢𝗥)](https://git.io/typing-svg)
 
