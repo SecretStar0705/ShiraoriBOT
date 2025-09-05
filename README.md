@@ -86,7 +86,7 @@
 
 ---
 
-## 🙏 CREDITS
+
 
 <div align="center">
   <a href="https://files.catbox.moe/qoph4w.jpg">
